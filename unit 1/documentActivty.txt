@@ -1,0 +1,6 @@
+Jakeer Martin 1 Period 
+  A document is a recorded representation of information intended to communicate, store, or preserve knowledge
+1. it allows other to see what have already been done and begin on working on hte next thing 2. it allows new hires to get caught up to speed faster 
+    3. it allows cummuitcation 
+    While internal documentation captures technical setups, code architecture, and internal workflows to help engineering and operations teams run efficiently, external documentation offers polished, user-focused guides and API references to help customers and third-party developers succeed with the product.
+no you do not need to know how to code to read code documentation because its just words that anyone can read 
